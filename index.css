@@ -7,7 +7,3 @@ html, body, #root {
 * {
   box-sizing: border-box;
 }
-
-body {
-  background: #f8fafc;
-}
