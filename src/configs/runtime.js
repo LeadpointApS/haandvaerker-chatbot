@@ -1,7 +1,0 @@
-export const RUNTIME_CONFIG = {
-  APP_NAME: "Boble",
-  DEFAULT_PROJECT_KEY: "vvs",
-  WEBHOOK_URL: "",
-  SEND_WEBHOOK_ON_SUBMIT: true,
-  MAX_UPLOADS: 6,
-};
