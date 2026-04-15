@@ -325,7 +325,7 @@ export function ChatWindow({ form, setForm, settings }: { form: FormState; setFo
         </div>
       </div>
 
-      <SummaryPanel settings={settings} summaryLog={summaryLog} lead={lead} result={result} form={form} complete={complete} />
+      <SummaryPanel settings={settings} summaryLog={summaryLog} lead={lead} result={result}  images={form.images} complete={complete} />
     </div>
   );
 }
